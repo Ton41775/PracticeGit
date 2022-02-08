@@ -21,6 +21,7 @@ ${NUMBERString} =  1
 
 
 *** Test Cases ***
+Print   Ton
 Print Hello World
     [Documentation]    This keyword will Print Hello World to Console
     log    ${token}
